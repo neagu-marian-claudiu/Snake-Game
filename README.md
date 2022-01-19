@@ -1,7 +1,7 @@
 Rules
 =====
 
-**Jocul e simplu...sarpele mananca si creste in lungime**</br><
+**Jocul e simplu...sarpele mananca si creste in lungime**</br>
 **Comenzi: jocul se controleaza din sageti, butonul de ESC pune pauza iar butonul de SPACE reia jocul**</br>
 Bananele sunt mancarea...cand sarpele mananca una creste in lungime cu 1 block si scorul creste cu 100</br>
 Sticlutele sunt otrava...cand sarpele loveste o sticluta devine mai mic cu un block si scorul scade cu 100</br>
