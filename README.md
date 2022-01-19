@@ -1,5 +1,5 @@
 Rules
-====
+=====
 
 Jocul e simplu...sarpele mananca si creste in lungime
 Bananele sunt mancarea...cand sarpele mananca una creste in lungime cu 1 block si scorul creste cu 100
