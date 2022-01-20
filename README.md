@@ -1,5 +1,5 @@
 Rules and description
-======
+=======
 
 **Jocul e simplu...sarpele mananca si creste in lungime**</br><hr>
 **Comenzi: jocul se controleaza din sageti, butonul de ESC pune pauza iar butonul de SPACE reia jocul**</br><hr>
